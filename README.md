@@ -1,3 +1,3 @@
 # Firstrepo
-My first git repo
+My first git repoository.
 Author - Shivam Sharma
